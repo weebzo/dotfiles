@@ -1,5 +1,7 @@
 # dotfiles
 repository to backup the config files(and other things) of programs i use.
+## **Screenshot**
+![screenshot](screenshot.png "")  
 
 # packages
 ```bash
