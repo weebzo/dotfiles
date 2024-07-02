@@ -29,3 +29,6 @@ sudo pacman -S fastfetch pavucontrol vlc zellij
 sudo pacman -S hyprland hyprpaper nwg-look qt6ct lxappearance rofi-wayland dunst wl-clipboard
 
 ```
+
+# wallpapers
+![1341184](/wallpapers/1341184.jpeg)
