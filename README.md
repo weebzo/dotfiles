@@ -1,5 +1,7 @@
 # dotfiles
 repository to backup the config files(and other things) of programs i use.
+> Some configuration files are not completely done by me, all credit to those people. 
+if you see something you made here, let me know to credit you, and love u.
 ## **Screenshot**
 ![screenshot](screenshot.png "")  
 
