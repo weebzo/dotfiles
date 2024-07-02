@@ -1,0 +1,9 @@
+bitwarden 
+privacy badger
+sponsorblock
+vimium
+ublock origin
+dark reader
+decentraleyes
+clear url's
+don't track me google

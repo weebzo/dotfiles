@@ -1,0 +1,50 @@
+# theme = "gruber-darker"
+# theme = "zenburn"
+# theme = "base16_transparent"
+theme = "everforest_dark"
+
+# change cursor shape based on the current mode 
+# [editor.cursor-shape]
+# insert = "bar"
+# normal = "block"
+# select = "underline"
+
+[editor]
+line-number = "relative"
+# auto-save = true
+completion-replace = true
+completion-timeout = 5
+
+[editor.statusline]
+left = ["mode", "spinner"]
+center = ["file-name"]
+right = ["diagnostics", "selections", "position", "file-encoding", "file-line-ending", "file-type"]
+separator = "│"
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[keys.normal]
+C-right = "move_next_word_start"
+C-left = "move_prev_word_end"
+C-s = ":w"
+C-b = ":wbc" # write-buffer-close
+a = ["append_mode", "collapse_selection"]
+C-space = "signature_help"
+f = { f = "buffer_picker", space = "file_picker_in_current_directory" }
+
+[keys.normal.space]
+q = ":quit"
+
+[keys.insert]
+C-right = "move_next_word_start"
+C-left = "move_prev_word_end"
+j = { k = "normal_mode" }
+C-space = "signature_help"
+C-s = ":w"
+# C-q = "collapse_selection" useless due to zellij
+C-b = ":wbc" # write-buffer-close
+
