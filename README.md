@@ -26,6 +26,6 @@ sudo pacman -S grim slurp
 sudo pacman -S fastfetch pavucontrol vlc zellij
 
 # Desktop
-sudo pacman -S hyprland hyprpaper nwg-look rofi-wayland dunst wl-clipboard
+sudo pacman -S hyprland hyprpaper nwg-look qt6ct lxappearance rofi-wayland dunst wl-clipboard
 
 ```
