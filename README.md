@@ -1,2 +1,2 @@
 # dotfiles
-repository to backup the config files of programs i use.
+repository to backup the config files(and other things) of programs i use.
