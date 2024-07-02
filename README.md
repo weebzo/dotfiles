@@ -31,4 +31,9 @@ sudo pacman -S hyprland hyprpaper nwg-look qt6ct lxappearance rofi-wayland dunst
 ```
 
 # wallpapers
-![1341184](/wallpapers/1341184.jpeg)
+![1341184](/wallpapers/1341184.jpeg "#1")
+![1354115](/wallpapers/1354115.png "#2")
+![485663](/wallpapers/485663.jpg "#3")
+![766544](/wallpapers/766544.jpg "#4")
+![846179](/wallpapers/846179.jpg "#5")
+![wallhaven-d6o77l](/wallpapers/wallhaven-d6o77l.jpg "#6")
