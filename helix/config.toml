@@ -1,9 +1,21 @@
+
+### Dark themes
 # theme = "gruber-darker"
 # theme = "zenburn"
-# theme = "base16_transparent"
-theme = "everforest_dark"
+# theme = "base16_transparent" // transparent term
+# theme = "everforest_dark"
+theme = "curzon"
+# theme = "everblush"
+# theme = "fleet_dark"
+# theme = "heisenberg"
+# theme = "jetbrains_dark"
+# theme = "kaolin-dark"
+# theme = "term16_dark" // transparent term
+# theme = "vim_dark_high_contrast"
+### White themes
+# theme = "flatwhite"
+# theme = "ingrid"
 
-# change cursor shape based on the current mode 
 # [editor.cursor-shape]
 # insert = "bar"
 # normal = "block"
@@ -26,6 +38,12 @@ mode.select = "SELECT"
 
 [editor.lsp]
 display-inlay-hints = true
+
+[keys.normal."["]
+"[" = "goto_previous_buffer"
+
+[keys.normal."]"]
+"]" = "goto_next_buffer" 
 
 [keys.normal]
 C-right = "move_next_word_start"
