@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
-source ~/.oh-my-zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+# source ~/.oh-my-zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh uncomment in order to enable auto-complete make sure its in the same path
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
