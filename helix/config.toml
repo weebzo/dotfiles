@@ -35,6 +35,7 @@ C-b = ":wbc" # write-buffer-close
 a = ["append_mode", "collapse_selection"]
 C-space = "signature_help"
 f = { f = "buffer_picker", space = "file_picker_in_current_directory" }
+C-x = ":fmt" #format code
 
 [keys.normal.space]
 q = ":quit"
@@ -47,4 +48,4 @@ C-space = "signature_help"
 C-s = ":w"
 # C-q = "collapse_selection" useless due to zellij
 C-b = ":wbc" # write-buffer-close
-
+C-x = ":fmt" #format code
