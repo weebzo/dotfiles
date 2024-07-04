@@ -24,13 +24,13 @@ sudo pacman -S gnu-free-fonts noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fo
 sudo pacman -S bluez bluez-utils blueman
 
 # screenshot 
-sudo pacman -S flameshot
+sudo pacman -S grim slurp
 
 # misc
 sudo pacman -S fastfetch pavucontrol vlc zellij
 
 # Desktop
-sudo pacman -S i3 nwg-look qt6ct lxappearance rofi dunst xsel waybar
+sudo pacman -S hyprland nwg-look qt6ct lxappearance rofi-wayland dunst wl-clipboard waybar
 ```
 
 # wallpapers
