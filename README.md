@@ -24,7 +24,7 @@ sudo pacman -S gnu-free-fonts noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fo
 sudo pacman -S bluez bluez-utils blueman
 
 # screenshot 
-sudo pacman -S grim slurp
+sudo pacman -S flameshot
 
 # misc
 sudo pacman -S fastfetch pavucontrol vlc zellij
