@@ -40,3 +40,4 @@ sudo pacman -S hyprland nwg-look qt6ct lxappearance rofi-wayland dunst wl-clipbo
 ![766544](/wallpapers/766544.jpg "#4")
 ![846179](/wallpapers/846179.jpg "#5")
 ![wallhaven-d6o77l](/wallpapers/wallhaven-d6o77l.jpg "#6")
+![mc](/wallpapers/mc.png "#7")
