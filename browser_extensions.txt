@@ -1,6 +1,7 @@
 bitwarden 
 privacy badger
 sponsorblock
+dearrow
 vimium
 ublock origin
 dark reader
